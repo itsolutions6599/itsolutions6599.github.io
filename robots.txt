@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://itsolutions6599.github.io/sitemap.xml
